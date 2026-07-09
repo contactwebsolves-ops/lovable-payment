@@ -1,0 +1,14 @@
+{
+    "name": "lovable-license-api",
+    "version": "1.0.0",
+    "description": "License API for LovableChat",
+    "main": "api/index.js",
+    "scripts": {
+        "start": "node api/index.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "cors": "^2.8.5",
+        "crypto": "^1.0.1"
+    }
+}
